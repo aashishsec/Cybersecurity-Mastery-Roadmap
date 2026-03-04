@@ -1382,17 +1382,6 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 - [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques
 - [OWASP](https://owasp.org/) - Open Web Application Security Project resources
 
-## Contributing
-
-Contributions to this roadmap are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or additions.
-
-1. Fork the repository
-2. Create your resource branch (`git checkout -b resource/new_tool`)
-3. Commit your changes (`git commit -m 'Add some resources'`)
-4. Push to the branch (`git push origin resource/new_tool`)
-5. Open a Pull Request
-
----
 
 <p align="center">
   <i>"Security is a process, not a product." - Bruce Schneier</i>
@@ -1403,5 +1392,5 @@ Contributions to this roadmap are welcome! Please feel free to submit a pull req
 </p>
 
 <p align="center">
-  Made with ❤️ by Hamed Esam
+  Made with ❤️ by AashishTechSecurity
 </p>
